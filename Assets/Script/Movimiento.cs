@@ -140,4 +140,7 @@ public class Movimiento : MonoBehaviour
     // CÓDIGO MUY ÚTIL
     // HOLA ESTOY EN EL REPO!
     // Okey
+
+    //asasoasasoas moa soam
+    
 }
